@@ -1,5 +1,5 @@
 <template>
-  <v-app light>
+  <v-app >
     <Tables :search=search :headers=headers :desserts=desserts />
   </v-app>
   
